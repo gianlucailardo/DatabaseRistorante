@@ -5,3 +5,7 @@ Con mysqldeveloper è stata eseguita la parte riguardante il codice: sono state 
 Ulteriori informazioni sono presenti nella relazione.
 Contribuenti:
 - [Gianluca Ilardo](https://github.com/gianlucailardo)
+
+Alessio Buonomo
+
+Luca Siano
