@@ -4,4 +4,4 @@ Con DIA sono sati realizzati: diagramma ER, diagramma relazionale e diagramma de
 Con mysqldeveloper è stata eseguita la parte riguardante il codice: sono state create le tabelle (successivamente popolate), sono stati creati i trigger e le procedure. Infine sono stati creati gli utenti con i relativi permessi di accesso al database.
 Ulteriori informazioni sono presenti nella relazione.
 Contribuenti:
-https://github.com/gianlucailardo
+- [Gianluca Ilardo](https://github.com/gianlucailardo)
